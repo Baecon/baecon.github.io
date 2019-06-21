@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+    background: #141212;
+    color: honeydew;
+}
+
+#center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -250px;
+    width: 500px;
+	height: 200px;
+	background-color: gray;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+#right{
+	position: absolute;
+	margin-left: 75%;
+	width: 125px;
+	height: 100%;
+	background-color: blue;
+}
+#center div {
+	padding: 10px
+
+}

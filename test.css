@@ -1,0 +1,35 @@
+html,
+body {
+  margin: 0;
+  height: 0%;
+}
+
+.wrapper {
+  position: relative;
+  margin: auto;
+  padding: 0;
+  max-width: 75vw;
+}
+
+.box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 100px;
+    height: 100px;
+}
+  
+
+body {
+  background-color: hsl(240, 100%, 80%);
+}
+
+.box {
+  background-color: hsl(225, 100%, 25%);
+}
+
+.foreground {
+  background-color: hsl(325, 50%, 50%);
+}
