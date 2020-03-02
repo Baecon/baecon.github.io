@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/baecon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://baecon.dev
+  * I am baecon (https://keybase.io/baecon) on keybase.
+  * I have a public key ASA2U47wNHJFOPEJ2hUxR3UfE5t7XAWzsctUHG6lUK3Fwgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012036538ef034724538f109da153147751f139b7b5c05b3b1cb541c6ea550adc5c20a",
+      "host": "keybase.io",
+      "kid": "012036538ef034724538f109da153147751f139b7b5c05b3b1cb541c6ea550adc5c20a",
+      "uid": "5a5fd8fe9efb208283941c408d402119",
+      "username": "baecon"
+    },
+    "merkle_root": {
+      "ctime": 1583123855,
+      "hash": "7f55399997a5283206d8b5a53787a0001dfb4082e5e7733e1ee6a903dbebcd4fff971a4e4bc705074d0b915219ef78a58d69ec5f3a66a8192bcb1577ce7785dd",
+      "hash_meta": "5393279e5d51a37cb37eaa0a922f5f22f142f46eba48b9d24026f69a4bf82b1a",
+      "seqno": 14890325
+    },
+    "service": {
+      "entropy": "kowX22Yh1ZxLDG+vz0J2ZUUN",
+      "hostname": "baecon.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.1"
+  },
+  "ctime": 1583123860,
+  "expire_in": 504576000,
+  "prev": "111066875fa9c417afbf1b00706328e4139c20cea2ea1fbd39d3583fca051c7a",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgNlOO8DRyRTjxCdoVMUd1HxObe1wFs7HLVBxupVCtxcIKp3BheWxvYWTESpcCCcQgERBmh1+pxBevvxsAcGMo5BOcIM6i6h+9OdNYP8oFHHrEILhSvh6yz5NoDiU/OgDCba6OLgqSk6AnGFm5os6gr6ZIAgHCo3NpZ8RASOrk4O3Fxie7FwQtJE+AjE8o14ePpzQgpEGeirSaFRIVYTBC6f71tgCiyBBQwFRy01apUO6kerATEhVkl3/9D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOrVJdfaMT1XPgYQ3LlgprdG/iUe3zPQPYpVTs6HEV8So3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/baecon
+
+==================================================================
